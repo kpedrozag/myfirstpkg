@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='indexor',
-    version='0.1.0',
+    version='0.1.1',
     description='The best indexor',
     url='https://github.com/kpedrozag/myfirstpkg',
     author='Kevin Pedroza Goenaga',
