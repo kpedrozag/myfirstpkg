@@ -4,7 +4,7 @@ setup(
     name='indexer',
     version='0.1.0',
     description='The best indexer',
-    url='www.google.com',
+    url='https://github.com/kpedrozag/myfirstpkg',
     author='Kevin Pedroza Goenaga',
     author_email='kevinpedroza26@gmail.com',
     license='GNU GPLv3',
